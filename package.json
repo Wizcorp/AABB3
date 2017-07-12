@@ -1,0 +1,14 @@
+{
+  "name": "aabb3",
+  "version": "1.0.0",
+  "description": "Axis-Aligned Bounding Box 3D",
+  "main": "index.js",
+  "author": "Wizcorp Inc.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wizcorp/AABB3.git"
+  },
+  "dependencies": {
+  }
+}
